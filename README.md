@@ -1,1 +1,1 @@
-# SlideView
+# PinPView
